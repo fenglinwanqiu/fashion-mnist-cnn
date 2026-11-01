@@ -43,7 +43,7 @@ https://github.com/fenglinwanqiu/fashion-mnist-cnn
 
 ## 3. 代码修改描述
 
-本次的「一次代码修改」位于 `model.py`，即**用卷积神经网络（CNN）替代多层感知机（MLP）**。
+代码修改位于 `model.py`，即**用卷积神经网络（CNN）替代多层感知机（MLP）**。
 
 **修改前（baseline，多层感知机 MLP）** —— 把整张图像展平为一维向量后接全连接层，丢失了空间结构：
 
